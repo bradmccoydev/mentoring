@@ -19,3 +19,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Piyush Dhir](https://github.com/piyushdhir1) | IST | UTC +5.30 | Cloud computing (AWS,GCP), Networking fundamentals|
 | [Aniket Prabhakar](https://github.com/aniketprabhakar)   | IST  | UTC +5:30 | Cloud Computing , Artificial Intelligence , Machine Learning , Security research , DevOps
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
+| [Satyam Jain](https://github.com/Satyam298) | IST | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes |
