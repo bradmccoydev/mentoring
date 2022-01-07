@@ -17,3 +17,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Jayesh Srivastava](https://github.com/jayesh-srivastava) | IST | UTC +5:30 | Career Guidance, Kubernetes, GoLang
 | [Piyush Dhir](https://github.com/piyushdhir1) | IST | UTC +5.30 | Cloud computing (AWS,GCP), Networking fundamentals|
 | [Aniket Prabhakar](https://github.com/aniketprabhakar)   | IST  | UTC +5:30 | Cloud Computing , Artificial Intelligence , Machine Learning , Security research , DevOps
+| [Bhavish Reddy](https://github.com/sebhavish) | IST | UTC +5:30 | Career Advice, KCNA Exam, GoLang
