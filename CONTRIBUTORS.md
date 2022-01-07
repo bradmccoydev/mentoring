@@ -26,3 +26,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Mohammed Salik Mulla](https://github.com/Salik47) | IST | UTC +5:30 | GoLang, GitOps |
 | [Hardik Patel](https://github.com/HARDIK-TSH1392) | IST  | UTC +5:30 | Golang, GitOps, DevOps, Kubernetes, Artificial Intelligence , Machine Learning, Cloud computing (AWS,GCP), Networking fundamentals|
 | [Carol Valencia](https://github.com/krol3) | BRT  | UTC -03 | Golang, GitOps, Kubernetes, Devops, Security research |
+| [Atharva Shirdhankar](https://github.com/StarTrooper08) | IST | UTC +5:30 | GoLang , GitOps, Github Actions, Kubernetes , Community Management
