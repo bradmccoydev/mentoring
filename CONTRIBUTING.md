@@ -6,9 +6,15 @@ First off, thank you for considering contributing to Open Source! It's people li
 
 This document lays out how to get you started in contributing, so please read on.
 
+Helper video if it is too hard: [Submitting your first pull request](https://www.youtube.com/watch?v=bpzioBa1n8w)
+
 ### Fork Repositories
 
-Click the fork button on the repo at https://github.com/bradmccoydev/mentoring
+Click the fork button on the repo at [https://github.com/bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
+
+Your repo will now be in your GitHub. Clone the repo to your computer with the following command:
+
+``` git clone https://github.com/<yourgithubname>/mentoring.git ```
 
 Branch away from the `main` branch and use the following schema for naming your branches:
 
