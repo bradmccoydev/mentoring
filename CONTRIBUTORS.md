@@ -19,8 +19,8 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Piyush Dhir](https://github.com/piyushdhir1) | IST | UTC +5.30 | Cloud computing (AWS,GCP), Networking fundamentals|
 | [Aniket Prabhakar](https://github.com/aniketprabhakar)   | IST  | UTC +5:30 | Cloud Computing , Artificial Intelligence , Machine Learning , Security research , DevOps
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
+| [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | DevOps, GitOps, Kubernetes |
 | [Mayank Mudgal](https://github.com/Mayank1728) | IST | UTC +5:30 | GitOps, GoLang
 | [Mohammed Salik Mulla](https://github.com/Salik47) | IST | UTC +5:30 | GoLang, GitOps |
 | [Hardik Patel](https://github.com/HARDIK-TSH1392) | IST  | UTC +5:30 | Golang, GitOps, DevOps, Kubernetes, Artificial Intelligence , Machine Learning, Cloud computing (AWS,GCP), Networking fundamentals|
 | [Carol Valencia](https://github.com/krol3) | BRT  | UTC -03 | Golang, GitOps, Kubernetes, Devops, Security research |
-
