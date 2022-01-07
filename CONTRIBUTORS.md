@@ -12,4 +12,5 @@ These are the wonderful people who have donated their time and effort to help ma
 | GitHub | Timezone | Offset | Areas of Interest |
 | --- | --- | --- | --- |
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang
+| [Abhigyan Srivastav](https://github.com/AbhigyanSrivastav) | IST | UTC +5:30 |Carrer Advice, GoLang
 
