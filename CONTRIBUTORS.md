@@ -40,5 +40,6 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Pratik Singh](https://github.com/kitarp29) | IST  | UTC +5:30 | Kubernetes, Golang, Devops, Cloud computing (AWS/GCP/Azure) |
 | [Atharva Shirdhankar](https://github.com/StarTrooper08) | IST | UTC +5:30 | Golang, GitOps, Github Actions, DevOps, Kubernetes, Community Management |
 | [Tochukwu Solomon Ewiwilem](https://github.com/solomon40) | WAT | UTC +1 | GitOps, GoLang |
+| [Naman Girdhar](https://github.com/namangirdhar16) | IST | UTC +5:30 | Node.js, React.js, Devops(Beginner) |
 | [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
 | [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
