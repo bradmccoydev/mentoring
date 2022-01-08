@@ -87,3 +87,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
 | [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
 | [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes,etc |
+| [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
