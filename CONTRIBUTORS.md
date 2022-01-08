@@ -82,4 +82,10 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
 | [MD Shahriyar Al Mustakim Mitul](https://github.com/mitul3737) | BST | UTC + 6:00 | Python, Go, GitOps, DevOps, OpenSource, Kubernetes, | 
 | [Anjani Kumar Panchal](https://github.com/Ak-panchal) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice |
-| [Khan Sameer Amanullah](https://github.com/sameerkhan97) | IST  | UTC +5:30 || OpenSource Contributions, Kubernetes, Docker, Containerization, Cloud Native, Golang | 
+| [Khan Sameer Amanullah](https://github.com/sameerkhan97) | IST  | UTC +5:30 | OpenSource Contributions, Kubernetes, Docker, Containerization, Cloud Native, Golang | 
+| [Omkar Sanjay Pomendkar](https://github.com/Omkar-Pomendkar) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice, Python |
+| [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
+| [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
+| [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
+| [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes,etc |
+
