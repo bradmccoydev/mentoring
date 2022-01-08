@@ -43,3 +43,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Naman Girdhar](https://github.com/namangirdhar16) | IST | UTC +5:30 | Node.js, React.js, Devops(Beginner) |
 | [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
 | [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
+| [Dhruv Sharma](https://github.com/dhruvsharma95) | IST | UTC +5:30 | Cloud Computing, DevOps, GitOps |
