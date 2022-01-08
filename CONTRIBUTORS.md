@@ -44,3 +44,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
 | [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
 | [Dhruv Sharma](https://github.com/dhruvsharma95) | IST | UTC +5:30 | Cloud Computing, DevOps, GitOps |
+| [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
