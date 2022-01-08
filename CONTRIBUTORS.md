@@ -25,6 +25,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes 
 | [Kartikey Rawat](https://github.com/carrycooldude) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes , JS ,TS ,MLOps |
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
+| [Prakalp Choubey] (https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
 | [Himanshu](https://github.com/himanshu007-creator) | IST  | UTC +5:30 | Gitops, Terraform |
 | [Abhinav T B](https://github.com/abhinav-TB) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang|
 | [Shubham Chaudhari](https://github.com/Shubh28698) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes, DevOps, Opensource |
