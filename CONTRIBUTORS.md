@@ -86,3 +86,9 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
 | [Yagyesh Srivastava](https://github.com/T0D0-FIXME) | PST | UTC -8:00 | DevOps, GitOps, GoLang, Kubernetes, Github Actions, CNCF Ambassadorship |
+| [Raj Pansuriya](https://github.com/Raj-Pansuriya) | IST | UTC +5:30 | Python, GoLang, DevOps, Data-Science, Open-Source, Career guidance |
+| [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
+| [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes,etc |
+| [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
+| [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
+| [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
