@@ -97,3 +97,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
 | [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
+| [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
