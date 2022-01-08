@@ -25,6 +25,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes 
 | [Kartikey Rawat](https://github.com/carrycooldude) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes , JS ,TS ,MLOps |
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
+| [JItender Singh ](https://github.com/sharpsailor)| IST | UTC +5:30 |Java , Kotlin , DevOps ,Artificial Intelligence, Machine Learning,Android, React native|
 | [Abinash Pradhan](https://github.com/abinash134) | IST  | UTC +5:30 | Golang, GitOps,DevOps Kubernetes,Cloud computing |
 | [Gautam](https://github.com/predatorcoderr) | IST | UTC +5:30 | GoLang, GitOps, Terraforms |
 | [Abdul Aziz Ali Alhassan](https://github.com/certyfreak) | GMT | UTC +0 | DevOps, Cloud computing, GoLang
@@ -56,6 +57,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Naman Girdhar](https://github.com/namangirdhar16) | IST | UTC +5:30 | Node.js, React.js, Devops(Beginner) |
 | [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
 | [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
+| [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
 | [Dhruv Sharma](https://github.com/dhruvsharma95) | IST | UTC +5:30 | Cloud Computing, DevOps, GitOps |
 | [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
 | [MD Shahriyar Al Mustakim Mitul](https://github.com/mitul3737) | BST | UTC + 6:00 | Python, Go, GitOps, DevOps, OpenSource, Kubernetes, | 
