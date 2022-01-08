@@ -86,4 +86,4 @@ y](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang |
 | [Omkar Sanjay Pomendkar](https://github.com/Omkar-Pomendkar) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice, Python |
 | [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
-| [Ravi Bishnoi](https://github.com/ravibisnoiii) | IST | UTC +5:30| GitOps, GoLang,DevOps, Kubernetes |
+| [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  GitOps, DevOps, Golang ,Kubernetes|
