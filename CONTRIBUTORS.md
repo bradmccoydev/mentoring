@@ -67,6 +67,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | DevOps, GitOps, Kubernetes |
 | [Mayank Mudgal](https://github.com/Mayank1728) | IST | UTC +5:30 | GitOps, GoLang
 | [Mohammed Salik Mulla](https://github.com/Salik47) | IST | UTC +5:30 | GoLang, GitOps |
+y](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang |
 | [Hardik Patel](https://github.com/HARDIK-TSH1392) | IST  | UTC +5:30 | Golang, GitOps, DevOps, Kubernetes, Artificial Intelligence , Machine Learning, Cloud computing (AWS,GCP), Networking fundamentals|
 | [Carol Valencia](https://github.com/krol3) | BRT  | UTC -03 | Golang, GitOps, Kubernetes, Devops, Security research |
 | [Pratik Singh](https://github.com/kitarp29) | IST  | UTC +5:30 | Kubernetes, Golang, Devops, Cloud computing (AWS/GCP/Azure) |
@@ -85,3 +86,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Omkar Sanjay Pomendkar](https://github.com/Omkar-Pomendkar) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice, Python |
 | [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
+| [Ravi Bishnoi](https://github.com/ravibisnoiii) | IST | UTC +5:30| GitOps, GoLang,DevOps, Kubernetes |
