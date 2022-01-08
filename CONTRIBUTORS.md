@@ -7,6 +7,9 @@ These are the wonderful people who have donated their time and effort to help ma
 ### Mentors:
 * Brad McCoy [@bradmccoydev](https://github.com/bradmccoydev)
 
+### Approvers:
+* Kunal Verma [@verma-kunal](https://github.com/verma-kunal)
+
 ### Contributors:
 
 | GitHub | Timezone | Offset | Areas of Interest |
@@ -41,3 +44,8 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Atharva Shirdhankar](https://github.com/StarTrooper08) | IST | UTC +5:30 | Golang, GitOps, Github Actions, DevOps, Kubernetes, Community Management |
 | [Tochukwu Solomon Ewiwilem](https://github.com/solomon40) | WAT | UTC +1 | GitOps, GoLang |
 | [Prabhu Marappan](https://github.com/prabhumarappan) | PST | UTC -8| GitOps, GoLang, Docker, Python |
+| [Naman Girdhar](https://github.com/namangirdhar16) | IST | UTC +5:30 | Node.js, React.js, Devops(Beginner) |
+| [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
+| [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
+| [Dhruv Sharma](https://github.com/dhruvsharma95) | IST | UTC +5:30 | Cloud Computing, DevOps, GitOps |
+| [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
