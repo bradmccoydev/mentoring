@@ -100,5 +100,6 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
 | [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
+| [Jim Green](https://github.com/jimsgreen) | CST  | UTC +6:00 | Terraform, GoLang |
 | [Ramprasath R](https://github.com/ramprasathram1998) | IST | UTC +5:30  | Helm, GoLang, Gitops, Terraform |
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
