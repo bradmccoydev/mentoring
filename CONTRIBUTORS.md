@@ -15,6 +15,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | GitHub | Timezone | Offset | Areas of Interest |
 | --- | --- | --- | --- |
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang
+| [Rewanth Tammana](https://rewanthtammana.com) | GST | UTC + 4 | GitOps, GoLang, Cloud Native, CNCF Ambassadorship
 | [Abhigyan Srivastav](https://github.com/AbhigyanSrivastav) | IST | UTC +5:30 | Carrer Advice, GoLang
 | [Uttam kumar](https://github.com/helper-uttam) | IST | UTC +5:30 | DevOps, Kubernetes, etc
 | [Jayesh Srivastava](https://github.com/jayesh-srivastava) | IST | UTC +5:30 | Career Guidance, Kubernetes, GoLang
@@ -97,6 +98,9 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
 | [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
-[Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
+| [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
 | [Happiness Munatsi Ncube](https://github.com/hmncube) | CAT | UTC +2:00 | Android, Kotlin, C#, Dot Net Core |
+| [Jim Green](https://github.com/jimsgreen) | CST  | UTC +6:00 | Terraform, GoLang |
+| [Ramprasath R](https://github.com/ramprasathram1998) | IST | UTC +5:30  | Helm, GoLang, Gitops, Terraform |
+| [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
