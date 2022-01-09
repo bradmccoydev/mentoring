@@ -109,4 +109,5 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
 | [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
+| [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
 
