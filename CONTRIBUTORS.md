@@ -28,7 +28,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes 
 | [Kartikey Rawat](https://github.com/carrycooldude) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes , JS ,TS ,MLOps |
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
-| [Prakalp Choubey] (https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
+| [Prakalp Choubey](https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
 | [Himanshu](https://github.com/himanshu007-creator) | IST  | UTC +5:30 | Gitops, Terraform |
 | [Abhinav T B](https://github.com/abhinav-TB) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang|
 | [Shubham Chaudhari](https://github.com/Shubh28698) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes, DevOps, Opensource |
@@ -88,6 +88,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Omkar Sanjay Pomendkar](https://github.com/Omkar-Pomendkar) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice, Python |
 | [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
+| [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST | UTC +5:30 | GitOps, GoLang ,Kuberenetes,DevOps |
 | [Ahmet Soykan](https://github.com/ahmetsoykan) | TRT | UTC +3:00 | Go, Kubernetes, CNCF Ambassadorship |
 | [Kumar Aditya Raj](https://github.com/kumaradityaraj) | IST | UTC +5:30 | DevOps, Developer Advocate |
 | [Sankardev](https://github.com/sankardevvinu) | IST | UTC +5.30 | GoLang , Gitops , Kubernetes , Azure/GCP | 
@@ -110,4 +111,3 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
 | [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
 | [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
-
