@@ -101,5 +101,9 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
 | [Jaimin Shimpi](https://github.com/JaiminShimpi) | IST | UTC +5:30 | DevOps, Kubernetes, JS, Python |
+| [Kiran Tammana](https://github.com/tcskiran) | IST | UTC +5:30 | Golang, Nodejs, GitOps, DevOps |
+| [Happiness Munatsi Ncube](https://github.com/hmncube) | CAT | UTC +2:00 | Android, Kotlin, C#, Dot Net Core |
+| [Jim Green](https://github.com/jimsgreen) | CST  | UTC +6:00 | Terraform, GoLang |
 | [Ramprasath R](https://github.com/ramprasathram1998) | IST | UTC +5:30  | Helm, GoLang, Gitops, Terraform |
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
+| [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
