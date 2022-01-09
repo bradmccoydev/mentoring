@@ -112,6 +112,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
 | [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
+| [Ayesha Khaliq](https://github.com/ayesha-kr) | PST | UTC +5:30 | Career Advice, Kubernetes, GoLang, Distributed Systems |
 | [Saksham Singh](https://github.com/saksham-s1ngh) | IST  | UTC +5:30 | Career Advice, GitOps, Kubernetes, Cloud & Open-source |
 | [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
 | [Ruthvik Kamarasu](https://github.com/kamarasuruthvik) | IST | UTC +5:30 | Docker, Kubernetes, GoLang , DevOps , Open Source |
