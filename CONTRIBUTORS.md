@@ -108,3 +108,5 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Ramprasath R](https://github.com/ramprasathram1998) | IST | UTC +5:30  | Helm, GoLang, Gitops, Terraform |
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
+| [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
+
