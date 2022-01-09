@@ -15,6 +15,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | GitHub | Timezone | Offset | Areas of Interest |
 | --- | --- | --- | --- |
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang
+| [Rewanth Tammana](https://rewanthtammana.com) | GST | UTC + 4 | GitOps, GoLang, Cloud Native, CNCF Ambassadorship
 | [Abhigyan Srivastav](https://github.com/AbhigyanSrivastav) | IST | UTC +5:30 | Carrer Advice, GoLang
 | [Uttam kumar](https://github.com/helper-uttam) | IST | UTC +5:30 | DevOps, Kubernetes, etc
 | [Jayesh Srivastava](https://github.com/jayesh-srivastava) | IST | UTC +5:30 | Career Guidance, Kubernetes, GoLang
