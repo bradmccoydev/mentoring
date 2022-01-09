@@ -111,3 +111,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
 | [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
 | [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
+| [Ruthvik Kamarasu](https://github.com/kamarasuruthvik) | IST | UTC +5:30 | Docker, Kubernetes, GoLang , DevOps , Open Source |
