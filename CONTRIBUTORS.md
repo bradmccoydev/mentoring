@@ -78,7 +78,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Naman Girdhar](https://github.com/namangirdhar16) | IST | UTC +5:30 | Node.js, React.js, Devops(Beginner) |
 | [Vasu Chapadia](https://github.com/vasu-chapadia) | IST | UTC +5:30 | DevOps, Docker, Kubernetes, GoLang |
 | [Smitkumar Bhatesara](https://github.com/smit8585) | IST | UTC +5:30 | GoLand, GitOps | 
-| [Sonal Jain] (https://github.com/sonaljain067) | IST | UTC +5:30 | Go, GoLang,  GitOps
+| [Sonal Jain](https://github.com/sonaljain067) | IST | UTC +5:30 | Go, GoLang,  GitOps
 | [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
 | [Dhruv Sharma](https://github.com/dhruvsharma95) | IST | UTC +5:30 | Cloud Computing, DevOps, GitOps |
 | [Raj Parekh](https://github.com/Rajp2294) | IST | UTC +5:30 | Java, Reactjs, GoLand, GitOps, DevOps, OpenSource, Kubernetes, | 
@@ -89,7 +89,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
 | [Ahmet Soykan](https://github.com/ahmetsoykan) | TRT | UTC +3:00 | Go, Kubernetes, CNCF Ambassadorship |
 | [Kumar Aditya Raj](https://github.com/kumaradityaraj) | IST | UTC +5:30 | DevOps, Developer Advocate |
-| [Sankardev] (https://github.com/sankardevvinu) | IST | UTC +5.30 | GoLang , Gitops , Kubernetes , Azure/GCP | 
+| [Sankardev](https://github.com/sankardevvinu) | IST | UTC +5.30 | GoLang , Gitops , Kubernetes , Azure/GCP | 
 | [Yagyesh Srivastava](https://github.com/T0D0-FIXME) | PST | UTC -8:00 | DevOps, GitOps, GoLang, Kubernetes, Github Actions, CNCF Ambassadorship |
 | [Raj Pansuriya](https://github.com/Raj-Pansuriya) | IST | UTC +5:30 | Python, GoLang, DevOps, Data-Science, Open-Source, Career guidance |
 | [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
