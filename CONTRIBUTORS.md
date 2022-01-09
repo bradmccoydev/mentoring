@@ -29,7 +29,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Kartikey Rawat](https://github.com/carrycooldude) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes , JS ,TS ,MLOps |
 | [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
 | [Prakalp Choubey](https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
-| [Himanshu](https://github.com/himanshu007-creator) | IST  | UTC +5:30 | Gitops, Terraform |
+| [Himanshu](https://github.com/himanshu007-creator) | GMT  | UTC +5:30 | Gitops, Terraform |
 | [Abhinav T B](https://github.com/abhinav-TB) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang|
 | [Shubham Chaudhari](https://github.com/Shubh28698) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes, DevOps, Opensource |
 | [Abhishek Pakhare](https://github.com/AbhiPakhare) | IST  | UTC +5:30 | Career Advice, GoLang |
@@ -110,3 +110,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
 | [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
 | [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
+| [Lu cheng](https://github.com/lucheng-wh) | IST  | UTC +8:00 | GoLang, Gitops, Kubernetes, Cloud Native |
