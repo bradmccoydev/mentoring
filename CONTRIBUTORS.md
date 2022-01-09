@@ -100,6 +100,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
 | [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
+| [Yash Gangwar](https://github.com/yashgangwar7558) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang, GitOps 
 | [Jaimin Shimpi](https://github.com/JaiminShimpi) | IST | UTC +5:30 | DevOps, Kubernetes, JS, Python |
 | [Kiran Tammana](https://github.com/tcskiran) | IST | UTC +5:30 | Golang, Nodejs, GitOps, DevOps |
 | [Happiness Munatsi Ncube](https://github.com/hmncube) | CAT | UTC +2:00 | Android, Kotlin, C#, Dot Net Core |
