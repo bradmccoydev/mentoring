@@ -98,6 +98,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Raj Pansuriya](https://github.com/Raj-Pansuriya) | IST | UTC +5:30 | Python, GoLang, DevOps, Data-Science, Open-Source, Career guidance |
 | [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
 | [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes,etc |
+| [Lavkash Bhardwaj](https://github.com/Lavkash) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes, Career Advice |
 | [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
 | [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
@@ -117,4 +118,3 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
 | [Ruthvik Kamarasu](https://github.com/kamarasuruthvik) | IST | UTC +5:30 | Docker, Kubernetes, GoLang , DevOps , Open Source |
 | [Dmitrii Ostapenko](https://github.com/ostap-dm) | EST | UTC -5:00 | Docker, Kubernetes, DevOps , Open Source |
-
