@@ -118,3 +118,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
 | [Ruthvik Kamarasu](https://github.com/kamarasuruthvik) | IST | UTC +5:30 | Docker, Kubernetes, GoLang , DevOps , Open Source |
 | [Dmitrii Ostapenko](https://github.com/ostap-dm) | EST | UTC -5:00 | Docker, Kubernetes, DevOps , Open Source |
+| [Vrukshali Torawane](https://github.com/Vrukshali-26) | IST | UTC +5:30 | GoLang, Kubernetes, GitOps, KCNA, CKA |
