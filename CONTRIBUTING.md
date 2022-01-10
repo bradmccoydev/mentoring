@@ -24,7 +24,7 @@ Branch away from the `main` branch and use the following schema for naming your 
 git checkout -b add-bradmccoydev-to-contributors 
 ```
 
-Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github handle, timezone and areas of interest that you would like to learn.  This list will grow over time please choose only 2 to start with.
+Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github handle, timezone and areas of interest that you would like to learn.  This list will grow over time.
 
 | Things to be mentored on | 
 | --- |
@@ -32,9 +32,11 @@ Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github h
 | KCNA Exam |
 | Helm |
 | Kustomize |
+| Git |
 | GitOps |
 | GoLang |
 | Terraform |
+| DevRel |
 
 ```
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang |

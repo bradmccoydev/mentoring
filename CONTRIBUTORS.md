@@ -8,7 +8,8 @@ These are the wonderful people who have donated their time and effort to help ma
 * Brad McCoy [@bradmccoydev](https://github.com/bradmccoydev)
 
 ### Approvers:
-* Kunal Verma [@verma-kunal](https://github.com/verma-kunal)
+* Kunal Verma [verma-kunal](https://github.com/verma-kunal)
+* Uttam Kumar [Uttam kumar](https://github.com/helper-uttam)
 
 ### Contributors:
 
@@ -121,3 +122,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Vrukshali Torawane](https://github.com/Vrukshali-26) | IST | UTC +5:30 | GoLang, Kubernetes, GitOps, KCNA, CKA |
 | [Soumya Kushwaha](https://github.com/soumya-kushwaha) | IST | UTC +5:30 | Career Guidance, Cloud Computing |
 | [Sakthi Muthuswamy](https://github.com/SakthiMuthuswamy) | CST | UTC -6:00 | Career Advice, Kubernetes, GoLang, Distributed Systems |
+| [Ben Poh](https://github.com/benhpoh) | AEST | GMT +11 | GitOps, Helm |
