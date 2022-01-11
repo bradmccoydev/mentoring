@@ -31,7 +31,7 @@ You should try to read the [documentation](https://learn.hashicorp.com/tutorials
 ---
 ### Week 1
 Understand Infrastructure as Code Concepts - 8th Jan 2022
-- Prerequisite tutorial: 
+- Prerequisite tutorials: 
     - https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code
 - Additional resources:
     - [Introduction to Terraform](https://www.youtube.com/watch?v=2keKHXtvY5c)
@@ -39,21 +39,24 @@ Understand Infrastructure as Code Concepts - 8th Jan 2022
 ### Week 2
 Understand Terraform's purpose (vs other IaC) - 22nd Jan 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283189191/
+- Prerequisite tutorials: 
     - https://www.terraform.io/intro/use-cases#multi-cloud-deployment
     - https://www.terraform.io/language/state/purpose
 
 ### Week 3
 Understand Terraform basics - 29th Jan 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190014/
+- Prerequisite tutorials: 
     - https://learn.hashicorp.com/tutorials/terraform/install-cli
     - https://learn.hashicorp.com/tutorials/terraform/provider-versioning
 
 ### Week 4
 Use the Terraform CLI (outside of core workflow) - 5th Feb 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190152/
+- Prerequisite tutorials: 
     - https://www.terraform.io/cli/commands
     - https://www.terraform.io/cli/commands/init
     - https://www.terraform.io/cli/commands/plan
@@ -62,7 +65,8 @@ Use the Terraform CLI (outside of core workflow) - 5th Feb 2022
 ### Week 5
 Interact with Terraform modules - 12th Feb 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190236/
+- Prerequisite tutorials: 
     - https://learn.hashicorp.com/tutorials/terraform/module
 - Additional resources:
     - [Difference between Resource & Module](https://www.youtube.com/watch?v=fx7ESTJfV3o&t=1581s)
@@ -70,20 +74,23 @@ Interact with Terraform modules - 12th Feb 2022
 ### Week 6
 Navigate Terraform workflow - 19th Feb 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190374/
+- Prerequisite tutorials: 
     - https://www.terraform.io/intro/core-workflow
 
 ### Week 7
 Implement and maintain state - 26th Feb 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190458/
+- Prerequisite tutorials: 
     - https://www.terraform.io/language/settings/backends
     - https://learn.hashicorp.com/tutorials/terraform/aws-remote
 
 ### Week 8
 Read, generate, and modify configuration - 5th Mar 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190518/
+- Prerequisite tutorials: 
     - https://www.terraform.io/language/values/variables
     - https://learn.hashicorp.com/tutorials/terraform/variables
     - https://learn.hashicorp.com/tutorials/terraform/outputs
@@ -93,5 +100,6 @@ Read, generate, and modify configuration - 5th Mar 2022
 ### Week 9
 Understand Terraform Cloud and Enterprise capabilities - 12th Mar 2022
 - Meetup signup page: 
-- Prerequisite tutorial: 
+    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190561/
+- Prerequisite tutorials: 
     - https://www.terraform.io/cloud-docs
