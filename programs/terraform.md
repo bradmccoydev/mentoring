@@ -1,6 +1,6 @@
 # Terraform Mentoring Program
 
-End goal of this program - [**HashiCorp Certified: Terraform Associate**](https://www.hashicorp.com/certification/terraform-associate)
+The first milestone of this program is the - [**HashiCorp Certified: Terraform Associate**](https://www.hashicorp.com/certification/terraform-associate) This is a great certification and will give you the basic skills you will need to achieve the next advanced milestones such as CI/CD with IAC etc.
 
 <a href="https://www.hashicorp.com/certification/terraform-associate">
     <img src = "https://www.datocms-assets.com/2885/1586800192-terraformassociateweb.png?w=200"/>
@@ -103,3 +103,9 @@ Understand Terraform Cloud and Enterprise capabilities - 12th Mar 2022
     - https://www.meetup.com/sydney-hashicorp-user-group/events/283190561/
 - Prerequisite tutorials: 
     - https://www.terraform.io/cloud-docs
+
+### Week 10
+Booking the exam - 19th Mar 2022
+- Resources:
+    - https://blog.bradmccoy.io/devops-journey-how-to-get-certified-in-terraform-c0bce1caa3d
+    - https://github.com/bradmccoydev/terraform-cert-practice-questions
