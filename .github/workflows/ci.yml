@@ -11,5 +11,5 @@ jobs:
           with:
             github-token: ${{ secrets.GITHUB_TOKEN }}
             issue-message: '<h3>Hello 👋 Thank you very much for raising an issue 🙌 The maintainers will get back to you soon for discussion over the issue! Thank you for your contributions. 🚀</h3>'    
-            pr-message: '<h3>Yeah! You did it 🎉 Now, Relax 😉 -> Grab a drink ☕ -> And wait for the maintainers to check your contributions. Meanwhile, you can discuss on other issues and solve them 😀</h3>'
-            footer: 'Meanwhile you can discuss about the project in our ">Slack</a> Channel 😀</h3>'
+            pr-message: '<h3>Thanks for raising a PR. Please goto our <a href="https://github.com/bradmccoydev/mentoring/issues">Issues</a> for the latest information about your mentoring program </h3>'
+            footer: '<h3>If you need help reachout to me on twitter @bradmccoydev</h3>'
