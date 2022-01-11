@@ -122,3 +122,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Sakthi Muthuswamy](https://github.com/SakthiMuthuswamy) | CST | UTC -6:00 | Career Advice, Kubernetes, GoLang, Distributed Systems |
 | [Ben Poh](https://github.com/benhpoh) | AEST | GMT +11 | GitOps, Helm |
 | [Dipanshu Torawane](https://github.com/dipanshu18) | IST | UTC +5:30 | Devops, Cloud, Web Dev, Cloud Native Tools, GoLang, Open Source |
+| [Prateek Nandle](https://github.com/Prateeknandle) | IST | UTC +5:30 | Open Source, Cloud Native, kubernetes, DevOps, GoLang, Carrer Guidance |
