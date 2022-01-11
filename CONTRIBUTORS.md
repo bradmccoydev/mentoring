@@ -8,13 +8,15 @@ These are the wonderful people who have donated their time and effort to help ma
 * Brad McCoy [@bradmccoydev](https://github.com/bradmccoydev)
 
 ### Approvers:
-* Kunal Verma [@verma-kunal](https://github.com/verma-kunal)
+* Kunal Verma [verma-kunal](https://github.com/verma-kunal)
+* Uttam Kumar [Uttam kumar](https://github.com/helper-uttam)
 
 ### Contributors:
 
 | GitHub | Timezone | Offset | Areas of Interest |
 | --- | --- | --- | --- |
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang
+| [Rewanth Tammana](https://rewanthtammana.com) | GST | UTC + 4 | GitOps, GoLang, Cloud Native, CNCF Ambassadorship
 | [Abhigyan Srivastav](https://github.com/AbhigyanSrivastav) | IST | UTC +5:30 | Carrer Advice, GoLang
 | [Uttam kumar](https://github.com/helper-uttam) | IST | UTC +5:30 | DevOps, Kubernetes, etc
 | [Jayesh Srivastava](https://github.com/jayesh-srivastava) | IST | UTC +5:30 | Career Guidance, Kubernetes, GoLang
@@ -22,12 +24,11 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Piyush Dhir](https://github.com/piyushdhir1) | IST | UTC +5.30 | Cloud computing (AWS,GCP), Networking fundamentals|
 | [Aniket Prabhakar](https://github.com/aniketprabhakar)   | IST  | UTC +5:30 | Cloud Computing , Artificial Intelligence , Machine Learning , Security research , DevOps
 | [Prayag Savsani](https://github.com/PrayagS) | IST | UTC +5:30 | Golang, GitOps, Kubernetes |
-| [Saeem](https://github.com/saeem92) | IST | UTC +5.30 | Cloud Computing, DevOps, GoLang, Kubernetes, AR/VR, Open Source, Machine Learning & AI
-| [Bhavish Reddy](https://github.com/sebhavish) | IST | UTC +5:30 | Career Advice, KCNA Exam, GoLang
-| [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes 
+| [Saeem](https://github.com/saeem92) | IST | UTC +5.30 | Cloud Computing, DevOps, GoLang, Kubernetes, Open Source, Machine Learning & AI
+| [Bhavish Reddy](https://github.com/sebhavish) | IST | UTC +5:30 | Career Advice, KCNA Exam, GoLang |
 | [Kartikey Rawat](https://github.com/carrycooldude) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes , JS ,TS ,MLOps |
-| [Prayag Savsani](https://github.com/PrayagS) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes |
-| [Prakalp Choubey] (https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
+| [Mazhar Khan](https://github.com/MazharKhan01) | IST | UTC +5:30 | GitOps, DevOps|
+| [Prakalp Choubey](https://github.com/Prakalp23) | IST  | UTC +5:30 | ML,AI,DevOps |
 | [Himanshu](https://github.com/himanshu007-creator) | IST  | UTC +5:30 | Gitops, Terraform |
 | [Abhinav T B](https://github.com/abhinav-TB) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang|
 | [Shubham Chaudhari](https://github.com/Shubh28698) | IST  | UTC +5:30 | Golang, GitOps, Kubernetes, DevOps, Opensource |
@@ -66,7 +67,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Anshuman Sathua](https://github.com/anshu-21) | IST  | UTC +5:30 | Career Guidance, Opensource Contribution, Kubernetes |
 | [Diksha Rai](https://github.com/diksharai9) | IST | UTC +5:30 | Devops, GitOps |
 | [Abigail Gbadago](https://github.com/AfiMaameDufie) | GMT | UTC +0 | Java, React, Devops |
-| [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | DevOps, GitOps, Kubernetes |
+| [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | GitOps, KCNA, GoLang |
 | [Mayank Mudgal](https://github.com/Mayank1728) | IST | UTC +5:30 | GitOps, GoLang
 | [Mohammed Salik Mulla](https://github.com/Salik47) | IST | UTC +5:30 | GoLang, GitOps |
 | [Hardik Patel](https://github.com/HARDIK-TSH1392) | IST  | UTC +5:30 | Golang, GitOps, DevOps, Kubernetes, Artificial Intelligence , Machine Learning, Cloud computing (AWS,GCP), Networking fundamentals|
@@ -86,7 +87,9 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Anjani Kumar Panchal](https://github.com/Ak-panchal) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice |
 | [Omkar Sanjay Pomendkar](https://github.com/Omkar-Pomendkar) | IST  | UTC +5:30 | DevOps, GitOps, GoLang, Helm, Devops, Kubernetes, Career Advice, Python |
 | [Sayyed Umair](https://github.com/umairsayyed0) | IST  | UTC +5:30 |  GitOps, GoLang,  OpenSource, Kubernetes, Cloud Native, Career Advice |
+| [Jaskaranpal Singh](https://github.com/Jaskaranpal15) | IST | UTC +5:30 | GitOps, Opensource, K8s, Cloud Native
 | [Shivam Tyagi](https://github.com/ShivamTyagi12345) | IST | UTC +5:30 | KNCA exam ,CNCF Ambassadorship |
+| [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST | UTC +5:30 | GitOps, GoLang ,Kuberenetes,DevOps |
 | [Ahmet Soykan](https://github.com/ahmetsoykan) | TRT | UTC +3:00 | Go, Kubernetes, CNCF Ambassadorship |
 | [Kumar Aditya Raj](https://github.com/kumaradityaraj) | IST | UTC +5:30 | DevOps, Developer Advocate |
 | [Sankardev](https://github.com/sankardevvinu) | IST | UTC +5.30 | GoLang , Gitops , Kubernetes , Azure/GCP | 
@@ -94,9 +97,30 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Raj Pansuriya](https://github.com/Raj-Pansuriya) | IST | UTC +5:30 | Python, GoLang, DevOps, Data-Science, Open-Source, Career guidance |
 | [Shikhar Yadav](https://github.com/ShikharY10) | IST | UTC +5:30 | Golang, JS, Python |
 | [Ravi Bishnoi](https://github.com/ravibishnoiii) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes,etc |
+| [Lavkash Bhardwaj](https://github.com/Lavkash) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes, Career Advice |
 | [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
 | [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
-[Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
+| [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
 | [Yash Gangwar](https://github.com/yashgangwar7558) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang, GitOps 
+| [Jaimin Shimpi](https://github.com/JaiminShimpi) | IST | UTC +5:30 | DevOps, Kubernetes, JS, Python |
+| [Kiran Tammana](https://github.com/tcskiran) | IST | UTC +5:30 | Golang, Nodejs, GitOps, DevOps |
+| [Happiness Munatsi Ncube](https://github.com/hmncube) | CAT | UTC +2:00 | Android, Kotlin, C#, Dot Net Core |
+| [Jim Green](https://github.com/jimsgreen) | CST  | UTC +6:00 | Terraform, GoLang |
+| [Ramprasath R](https://github.com/ramprasathram1998) | IST | UTC +5:30  | Helm, GoLang, Gitops, Terraform |
+| [Matthew Knop](https://github.com/maknop) | MST  | UTC -7 | GitOps, GoLang, Terraform |
+| [Akanksha Pandaw](https://github.com/akankshaaa08) | IST  | UTC +5:30 | GitOps, GoLang, Terraform |
+| [Anurag Nayak](https://github.com/Anu-Ra-g) | IST  | UTC +5:30 | GoLang, Career Advice |
+| [Ayesha Khaliq](https://github.com/ayesha-kr) | PST | UTC +5:30 | Career Advice, Kubernetes, GoLang, Distributed Systems |
+| [Saksham Singh](https://github.com/saksham-s1ngh) | IST  | UTC +5:30 | Career Advice, GitOps, Kubernetes, Cloud & Open-source |
+| [Neel Shah](https://github.com/neelshah2409) | IST  | UTC +5:30 | Open Source, GitOps, Data Science ,Python|
+| [Ruthvik Kamarasu](https://github.com/kamarasuruthvik) | IST | UTC +5:30 | Docker, Kubernetes, GoLang , DevOps , Open Source |
+| [Dmitrii Ostapenko](https://github.com/ostap-dm) | EST | UTC -5:00 | Docker, Kubernetes, DevOps , Open Source |
+| [Vrukshali Torawane](https://github.com/Vrukshali-26) | IST | UTC +5:30 | GoLang, Kubernetes, GitOps, KCNA, CKA |
+| [Soumya Kushwaha](https://github.com/soumya-kushwaha) | IST | UTC +5:30 | Career Guidance, Cloud Computing |
+| [Sakthi Muthuswamy](https://github.com/SakthiMuthuswamy) | CST | UTC -6:00 | Career Advice, Kubernetes, GoLang, Distributed Systems |
+| [Ben Poh](https://github.com/benhpoh) | AEST | GMT +11 | GitOps, Helm |
+| [Dipanshu Torawane](https://github.com/dipanshu18) | IST | UTC +5:30 | Devops, Cloud, Web Dev, Cloud Native Tools, GoLang, Open Source |
+| [Luigi Morel](https://github.com/morelmiles) | GMT  | UTC +6:00 | GitOps, Kubernetes, Cloud Native, GoLang |
+| [Prateek Nandle](https://github.com/Prateeknandle) | IST | UTC +5:30 | Open Source, Cloud Native, kubernetes, DevOps, GoLang, Carrer Guidance |
