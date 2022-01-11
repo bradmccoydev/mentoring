@@ -31,7 +31,6 @@ You should try to read the [documentation](https://learn.hashicorp.com/tutorials
 ---
 ### Week 1
 Understand Infrastructure as Code Concepts - 8th Jan 2022
-- Meetup signup page: 
 - Prerequisite tutorial: 
     - https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code
 - Additional resources:
