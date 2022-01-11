@@ -109,3 +109,9 @@ Booking the exam - 19th Mar 2022
 - Resources:
     - https://blog.bradmccoy.io/devops-journey-how-to-get-certified-in-terraform-c0bce1caa3d
     - https://github.com/bradmccoydev/terraform-cert-practice-questions
+
+### Successfully completed
+| Git Handle | Name |
+| --- | --- |
+| @bradmccoydev | Brad McCoy |
+| @benhpoh | Ben Poh |
