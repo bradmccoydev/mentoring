@@ -8,3 +8,4 @@ The first milestone of this program is to complete the - [**Introduction to GitO
 | Git Handle | Name |
 | --- | --- |
 | @bradmccoydev | Brad McCoy |
+| @HARDIK-TSH1392 | Hardik Patel |
