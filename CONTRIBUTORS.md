@@ -9,7 +9,6 @@ These are the wonderful people who have donated their time and effort to help ma
 
 ### Approvers:
 * Kunal Verma [verma-kunal](https://github.com/verma-kunal)
-* Uttam Kumar [Uttam kumar](https://github.com/helper-uttam)
 
 ### Contributors:
 
