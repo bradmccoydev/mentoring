@@ -124,3 +124,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Dipanshu Torawane](https://github.com/dipanshu18) | IST | UTC +5:30 | Devops, Cloud, Web Dev, Cloud Native Tools, GoLang, Open Source |
 | [Luigi Morel](https://github.com/morelmiles) | GMT  | UTC +6:00 | GitOps, Kubernetes, Cloud Native, GoLang |
 | [Prateek Nandle](https://github.com/Prateeknandle) | IST | UTC +5:30 | Open Source, Cloud Native, kubernetes, DevOps, GoLang, Carrer Guidance |
+| [Aman Tur](https://github.com/amantur) | AEDT | UTC +11:00 | Terraform, Kubernetes, Cloud Native, DevOps |
