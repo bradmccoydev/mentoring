@@ -126,3 +126,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Prateek Nandle](https://github.com/Prateeknandle) | IST | UTC +5:30 | Open Source, Cloud Native, kubernetes, DevOps, GoLang, Carrer Guidance |
 | [Aman Tur](https://github.com/amantur) | AEDT | UTC +11:00 | Terraform, Kubernetes, Cloud Native, DevOps |
 | [Ather Fayyaz](https://github.com/atherfayyaz7) | EET | UTC +2 | Kubernetes, GoLang, GitOps, Terraform | 
+| [Favio Tolosa](https://github.com/ftolosa) | ART | UTC -3:00 | GoLang, GitOps, DevRel | 
