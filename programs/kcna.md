@@ -83,5 +83,5 @@ Booking the exam - 5-Mar-2022
 ### Successfully completed
 | Git Handle | Name | Link to Cert |
 | --- | --- | --- |
-| @bradmccoydev | Brad McCoy | [Cert](https://www.credly.com/badges/dd4f02af-2272-4a92-b10c-2c56079dc99d) |
+| @bradmccoydev | Brad McCoy | [Cert](https://www.credly.com/badges/5f087465-e6e1-4550-ab9e-f0ba8078416e) |
 | @benhpoh | Ben Poh | [Cert](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/895a2768-8c4a-4be0-a73f-c437f4cfad6d-benjamin-poh-af3c6051-79ca-45c8-b12b-1e631e4cc074-certificate.pdf) |
