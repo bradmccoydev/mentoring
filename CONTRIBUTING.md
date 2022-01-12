@@ -38,6 +38,8 @@ Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github h
 | Terraform |
 | DevRel |
 
+**add your line to the bottom of the page** 
+
 ```
 | [Brad McCoy](https://github.com/bradmccoydev) | AEST | UTC +10 | GitOps, GoLang |
 ```
