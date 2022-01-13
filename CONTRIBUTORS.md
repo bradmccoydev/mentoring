@@ -131,3 +131,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Aparajita Bose](https://github.com/AparajitaBose001) |  BST | UTC + 6:00 | Python, Go, GitOps, DevOps, OpenSource, Kubernetes, GoLang |  
 | [Favio Tolosa](https://github.com/ftolosa) | ART | UTC -3:00 | GoLang, GitOps, DevRel | 
 | [Julian Acevedo](https://github.com/jfacevedo) | COT | UTC -5:00 | GitOps, DevOps, Kubernetes, Terraform, Python |
+| [Mohd Ahmed Abdus](https://github.com/mdahmed-abdus) | IST | UTC +5:30 | KCNA, GoLang |
