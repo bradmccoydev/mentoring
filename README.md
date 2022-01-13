@@ -1,3 +1,4 @@
+[![Slack](https://img.shields.io/badge/Slack-Join%20-4a154b?style=flat&logo=slack)](https://join.slack.com/t/cloudnative-mentoring/shared_invite/zt-119bf6kae-bSGp7NQYrG~FZmjZjhZ~QA)
 # Mentoring
 
 Welcome to the mentoring program this repo is for the mentees to start of with.  For me to mentor you properly please add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with the things you would like to learn.  If you would like to learn something that is not on the list please create an issue in this repo.
