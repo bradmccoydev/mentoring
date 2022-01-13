@@ -15,3 +15,4 @@ The first milestone of this program is to complete the - [**Introduction to GitO
 | @gowlar | Stefan Gowlar | |
 |@espirado | Espira andrew | |
 |@abinash134 | Abinash Pradhan| |
+| @yashgangwar7558 | Yash Gangwar | |
