@@ -6,11 +6,15 @@ The first milestone of this program is the - [**HashiCorp Certified: Terraform A
     <img src = "https://www.datocms-assets.com/2885/1586800192-terraformassociateweb.png?w=200"/>
 </a>
 
-Upon completion of this training program, you should be equipped with the requisite knowledge to successfully pass the Terraform Associate test.
+Upon completion of this training program, you should be equipped with the prequisite knowledge to successfully pass the Terraform Associate test.
 
 Links to the official documentation:
 - [Terraform study guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification) - if you want to study all the exam objectives (*recommended if you're unfamiliar with Infrastructure as Code*)
 - [Terraform review guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification) - if you already have Terraform experience and want to choose which objectives to review before taking the exam
+
+## Mentors
+- [Brad McCoy](https://github.com/bradmccoydev)
+- [Ben Poh](https://github.com/benhpoh)
 
 ---
 ## Mentoring Sessions
@@ -111,7 +115,7 @@ Booking the exam - 19th Mar 2022
     - https://github.com/bradmccoydev/terraform-cert-practice-questions
 
 ### Successfully completed
-| Git Handle | Name |
-| --- | --- |
-| @bradmccoydev | Brad McCoy |
-| @benhpoh | Ben Poh |
+| Git Handle | Name | Link to Cert |
+| --- | --- | --- |
+| @bradmccoydev | Brad McCoy | [Cert](https://www.credly.com/badges/dd4f02af-2272-4a92-b10c-2c56079dc99d) |
+| @benhpoh | Ben Poh | [Cert](https://www.credly.com/badges/5f6b3c10-681c-4d83-95e3-8b13fb724bc6) |
