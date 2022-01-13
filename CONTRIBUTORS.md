@@ -133,3 +133,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Julian Acevedo](https://github.com/jfacevedo) | COT | UTC -5:00 | GitOps, DevOps, Kubernetes, Terraform, Python |
 | [Yash Gupta](https://github.com/knight-95) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang, GitOps, Cloud Native|
 | [Mohd Ahmed Abdus](https://github.com/mdahmed-abdus) | IST | UTC +5:30 | KCNA, GoLang |
+| [Anubhav](https://github.com/Anubhavdevv) | IST  | UTC +5:30 | DevOps, Docker, Chef, ML/AI, Computer Vision, Azure and GCP Cloud Services |
