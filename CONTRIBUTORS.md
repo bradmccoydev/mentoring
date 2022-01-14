@@ -100,7 +100,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Lavkash Bhardwaj](https://github.com/Lavkash) | IST  | UTC +5:30 |  Devops, GoLang,  OpenSource, Kubernetes, Career Advice |
 | [Rohan Singh](https://github.com/rohankr95) | IST | UTC +05:30 | Devops, GoLang, kubernetes, carrier advice |
 | [Khan Sameer](https://github.com/sameerkhan97) | IST  | UTC +5:30 |  GitOps, OpenSource Contribution, Kubernetes, Docker, Containerization, Cloud Native, GoLang, Career Advice |
-| [Manish Khadka](https://github.com/pen-pal) NTZ | UTC +5:45 | GitOps, OpenSource Contribution, Cloud Native, Blockchain, CNCF Ambassadorship, Python, Go |
+| [Manish Khadka](https://github.com/pen-pal) | NTZ | UTC +5:45 | GitOps, OpenSource Contribution, Cloud Native, Blockchain, CNCF Ambassadorship, Python, Go |
 | [Kapil Gautam](http://github.com/Gautime) | IST  | UTC +5:30 |  GoLang, Helm, Terraform |
 | [Olayinka Ayobami Idowu](https://github.com/haywhyz) | GMT | UTC +0:00  | Terraform, GitOps, Career Advice |
 | [Joseph Akayesi](https://github.com/josephakayesi) | GMT  | UTC +0:00 | GitOps, GoLang |
