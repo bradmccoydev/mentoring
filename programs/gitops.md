@@ -10,7 +10,7 @@ The first milestone of this program is to complete the - [**Introduction to GitO
 ### Successfully completed
 | Git Handle | Name | Link to Cert |
 | --- | --- | --- |
-| @bradmccoydev | Brad McCoy | <> |
+| @bradmccoydev | Brad McCoy | [Cert](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ec10b2de-789b-440c-a203-9dfc12d6cf10-brad-mccoy-78fa8554-948b-4c0c-95dc-aa0f3b8b1082-certificate.pdf) |
 | @HARDIK-TSH1392 | Hardik Patel | |
 | @gowlar | Stefan Gowlar | |
 |@espirado | Espira andrew | |
