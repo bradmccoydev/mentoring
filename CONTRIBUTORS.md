@@ -135,3 +135,4 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Mohd Ahmed Abdus](https://github.com/mdahmed-abdus) | IST | UTC +5:30 | KCNA, GoLang |
 | [Anubhav](https://github.com/Anubhavdevv) | IST  | UTC +5:30 | DevOps, Docker, Chef, ML/AI, Computer Vision, Azure and GCP Cloud Services |
 | [Abhigyan Ojha](https://github.com/abhigyanOjha)  | IST | UTC +5:30 | GitOps, GoLang, Open Source, Kubernetes, Terraform|
+| [Harsh Kumar](https://github.com/Harshkumar62367) | IST | UTC +5:30 | GitOps, GoLang, Carrer Advice, Terraform |
