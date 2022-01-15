@@ -1,20 +1,15 @@
-on:
-  pull_request:
-    branches:
-      - main
+name: Greetings
+
+on: [pull_request_target]
 
 jobs:
-  comment:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Add comment to PR
-        env:
-          URL: ${{ github.event.issue.comments_url }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl \
-            -X POST \
-            $URL \
-            -H "Content-Type: application/json" \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            --data '{ "body": "Thanks" }'
+  welcome:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v1
+        - uses: EddieHubCommunity/gh-action-community/src/welcome@main
+          with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            issue-message: '<h3>Hello 👋 Thank you very much for raising an issue 🙌 The maintainers will get back to you soon for discussion over the issue! Thank you for your contributions. 🚀</h3>'    
+            pr-message: '<h4>Thanks for raising a PR. Please goto our <a href="https://github.com/bradmccoydev/mentoring/issues">Issues</a></h4>'
+            footer: '<h4>You can also join our slack <a href="https://join.slack.com/t/cloudnative-mentoring/shared_invite/zt-119bf6kae-bSGp7NQYrG~FZmjZjhZ~QA">here</a></h4>'
