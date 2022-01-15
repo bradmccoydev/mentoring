@@ -139,3 +139,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Vikas](https://github.com/krvk) | IST | UTC +5:30 | Kubernetes, Golang, GitOps, Infrastructure as a Code |
 | [Anosh Bhakare](https://github.com/Anosh21) | IST | UTC +5:30 | Devops, Kubernetes, Gitops, Cloud Native, Docker |
 
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
+</a>

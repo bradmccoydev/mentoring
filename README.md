@@ -5,7 +5,7 @@
 Welcome to the mentoring program this repo is for the mentees to start of with.  For me to mentor you properly please add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with the things you would like to learn.  If you would like to learn something that is not on the list please create an issue in this repo.
 
 ## Slack Channel
-Please join our Slack Channel [here](https://join.slack.com/t/cloudnative-mentoring/shared_invite/zt-119bf6kae-bSGp7NQYrG~FZmjZjhZ~QA)
+Please join our Slack Channel [here](https://join.slack.com/t/cloudnative-mentoring/shared_invite/zt-119bf6kae-bSGp7NQYrG~FZmjZjhZ~QA). Once you join please introduce yourself in the #introduce-yourself channel.
 ## Who am I?
 I am a CNCF Ambassador that is passionate about teaching and mentoring people. I have successfully placed folks into internships before and helped them with their careers in the cloud-native/ DevOps space.
 
