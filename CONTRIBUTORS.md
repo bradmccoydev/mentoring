@@ -138,4 +138,5 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Harsh Kumar](https://github.com/Harshkumar62367) | IST | UTC +5:30 | GitOps, GoLang, Carrer Advice, Terraform |
 | [Vikas](https://github.com/krvk) | IST | UTC +5:30 | Kubernetes, Golang, GitOps, Infrastructure as a Code |
 | [Anosh Bhakare](https://github.com/Anosh21) | IST | UTC +5:30 | Devops, Kubernetes, Gitops, Cloud Native, Docker |
+| [Anosh Bhakare](https://github.com/Anosh21) | IST | UTC +5:30 | Cibersecurity, Cloud Computing, DevSecOps, Networking|
 
