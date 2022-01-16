@@ -6,13 +6,19 @@ GitOps is an Advanced topic I recommend learning Kubernetes first before you sta
 The first milestone of this program is to complete the - [**Introduction to GitOps (LFS169)**](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) This is a prerequisite to the next part of the training coming soon!! Please put your name below once finished.
 
 ### Milestone 2a
-This milestone is to learn Argo (coming soon)
+This milestone is to learn Helm (coming soon)
 
 ### Milestone 2b
+This milestone is to learn Kustomize (coming soon)
+
+### Milestone 3a
+This milestone is to learn Argo (coming soon)
+
+### Milestone 3b
 This milestone is to learn Flux (coming soon)
 
-### Milestone 3 - Optional
-This milesone is for learning Hashicorp Vault which is commonly used in production systems you can find our [Hashicorp Vault](programs/vault.md) in the programs folder.
+### Milestone 4 - Optional
+This milesone is for learning Hashicorp Vault which is commonly used in production systems you can find our [Hashicorp Vault](vault.md) in the programs folder.
 
 ## Mentors
 - [Brad McCoy](https://github.com/bradmccoydev)

@@ -36,6 +36,7 @@ Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github h
 | GitOps |
 | GoLang |
 | Terraform |
+| Vault |
 | DevRel |
 
 **add your line to the bottom of the page** 

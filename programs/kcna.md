@@ -14,6 +14,7 @@ Links to the documentation:
 
 ## Mentors
 - [Brad McCoy](https://github.com/bradmccoydev)
+- [Walid Shaari](https://github.com/walidshaari)
 - [Ben Poh](https://github.com/benhpoh)
 
 ---

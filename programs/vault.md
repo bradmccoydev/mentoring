@@ -35,85 +35,94 @@ You should try to read the [documentation](https://learn.hashicorp.com/tutorials
 ---
 ### Session 1
 Compare authentication methods - 8th Jan 2022
+- Meetup signup page: 
+    - 
 - Prerequisite tutorials: 
-    - https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code
-- Additional resources:
-    - [Introduction to Terraform](https://www.youtube.com/watch?v=2keKHXtvY5c)
+    - https://learn.hashicorp.com/collections/vault/getting-started
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-authentication
+    - https://learn.hashicorp.com/tutorials/vault/approle#auth-methods
 
 ### Session 2
 Create Vault policies - 22nd Jan 2022
 - Meetup signup page: 
-    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283189191/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/intro/use-cases#multi-cloud-deployment
-    - https://www.terraform.io/language/state/purpose
+    - https://learn.hashicorp.com/tutorials/vault/policies
 
 ### Session 3
 Assess Vault tokens - 29th Jan 2022
 - Meetup signup page: 
-    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190014/
+    - 
 - Prerequisite tutorials: 
-    - https://learn.hashicorp.com/tutorials/terraform/install-cli
-    - https://learn.hashicorp.com/tutorials/terraform/provider-versioning
+    - https://learn.hashicorp.com/tutorials/vault/tokens
+    - https://learn.hashicorp.com/tutorials/vault/batch-tokens
+    - https://learn.hashicorp.com/tutorials/vault/generate-root
 
 ### Session 4
 Manage Vault leases - 5th Feb 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190152/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/cli/commands
-    - https://www.terraform.io/cli/commands/init
-    - https://www.terraform.io/cli/commands/plan
-    - https://www.terraform.io/cli/commands/apply
+    - https://learn.hashicorp.com/tutorials/vault/database-secrets
 
 ### Session 5
 Compare and configure Vault secrets engines - 12th Feb 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190236/
+    - 
 - Prerequisite tutorials: 
-    - https://learn.hashicorp.com/tutorials/terraform/module
-- Additional resources:
-    - [Difference between Resource & Module](https://www.youtube.com/watch?v=fx7ESTJfV3o&t=1581s)
+    - https://learn.hashicorp.com/tutorials/vault/eaas-transit
 
 ### Session 6
 Utilize Vault CLI - 19th Feb 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190374/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/intro/core-workflow
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-authentication
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-policies
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-secrets-engines
+    - https://learn.hashicorp.com/collections/vault/secrets-management
+    - https://learn.hashicorp.com/tutorials/vault/configure-vault#environment-variables
 
 ### Session 7
 Utilize Vault UI - 26th Feb 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190458/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/language/settings/backends
-    - https://learn.hashicorp.com/tutorials/terraform/aws-remote
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-auth-ui
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-policies-ui
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-secrets-ui
 
 ### Session 8
 Be aware of the Vault API - 5th Mar 2022
 - Meetup signup page: 
-    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190518/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/language/values/variables
-    - https://learn.hashicorp.com/tutorials/terraform/variables
-    - https://learn.hashicorp.com/tutorials/terraform/outputs
-    - https://www.terraform.io/cli/state/resource-addressing
-    - https://learn.hashicorp.com/tutorials/terraform/dependencies
+    - https://learn.hashicorp.com/tutorials/vault/approle#step-4-login-with-roleid-secretid
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-apis#accessing-secrets-via-the-rest-apis
 
 ### Session 9
 Explain Vault architecture - 12th Mar 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190561/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/cloud-docs
+    - https://learn.hashicorp.com/tutorials/vault/reference-architecture
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-deploy
+    - https://learn.hashicorp.com/tutorials/vault/agent-aws
+    - https://learn.hashicorp.com/tutorials/vault/agent-caching
+    - https://learn.hashicorp.com/tutorials/vault/identity
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-deploy#seal-unseal
+    - https://learn.hashicorp.com/tutorials/vault/performance-replication
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-deploy#seal-unseal
+    - https://learn.hashicorp.com/tutorials/vault/cubbyhole-response-wrapping
+    - https://learn.hashicorp.com/tutorials/vault/database-secrets
+    - https://learn.hashicorp.com/tutorials/vault/getting-started-dynamic-secrets
 
 ### Session 10
 Explain encryption as a service - 19th Mar 2022
 - Meetup signup page: 
-    - https://www.meetup.com/sydney-hashicorp-user-group/events/283190561/
+    - 
 - Prerequisite tutorials: 
-    - https://www.terraform.io/cloud-docs
+    - https://learn.hashicorp.com/tutorials/vault/eaas-transit
 
 ### Session 11
 Booking the exam - 19th Mar 2022
