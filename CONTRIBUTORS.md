@@ -19,6 +19,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Abhigyan Srivastav](https://github.com/AbhigyanSrivastav) | IST | UTC +5:30 | Carrer Advice, GoLang
 | [Uttam kumar](https://github.com/helper-uttam) | IST | UTC +5:30 | DevOps, Kubernetes, etc
 | [Jayesh Srivastava](https://github.com/jayesh-srivastava) | IST | UTC +5:30 | Career Guidance, Kubernetes, GoLang
+| [Meha Bhalodiya](https://github.com/mehabhalodiya) | IST | UTC +5:30 | GoLang, DevOps, Kubernetes, GitOps, Helm, Terraform, KCNA |
 | [Deepayan Mukherjee](https://github.com/Ciggzy1312) | IST | UTC + 5:30 | GitOps, GoLang |
 | [Piyush Dhir](https://github.com/piyushdhir1) | IST | UTC +5.30 | Cloud computing (AWS,GCP), Networking fundamentals|
 | [Aniket Prabhakar](https://github.com/aniketprabhakar)   | IST  | UTC +5:30 | Cloud Computing , Artificial Intelligence , Machine Learning , Security research , DevOps
