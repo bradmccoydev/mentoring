@@ -1,4 +1,4 @@
-# Vault Mentoring Program
+# Vault Mentoring Program - Coming Soon
 
 The first milestone of this program is the - [**HashiCorp Certified: Vault Associate**](https://www.hashicorp.com/certification/terraform-associate) This is a great certification and will give you the basic skills you will need to achieve the next advanced milestones such as DevSecOps, GitOps and much more.
 
