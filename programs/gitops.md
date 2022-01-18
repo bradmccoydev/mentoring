@@ -33,8 +33,11 @@ This milesone is for learning Hashicorp Vault which is commonly used in producti
 | @josephakayesi | Joseph Akayesi | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/520fc9e3-d62b-422f-a004-576a8e4e6123-joseph-akayesi-507f4507-ed10-472a-b0c5-e1e03710d1c7-certificate.pdf) |
 | @smit8585 | Smitkumar Bhatesara | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/28d101ae-62e6-415f-bf1e-6515c76d8a13-smitkumar-bhatesara-995787fa-1956-4e7b-afc0-3f9afc18b157-certificate.pdf) |
 | @hamidgholami | Hamid Gholami | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/116bdee2-c32a-4ede-9509-5530d1bce023-hamid-gholami-10335e8a-f166-4e2f-aa24-5d8c6642e5b9-certificate.pdf) |
+| @benhpoh | Ben Poh | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/895a2768-8c4a-4be0-a73f-c437f4cfad6d-benjamin-poh-f8bec567-55cf-47a6-980d-968dc2f7f79f-certificate.pdf) |
 | @HARDIK-TSH1392 | Hardik Patel | |
 | @gowlar | Stefan Gowlar | |
-|@espirado | Espira andrew | |
+|@espirado | Espira andrew | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2bc65558-4438-466a-8c59-c44ea209431e-andrew-espira-5d5ef0c3-9d1f-497d-b8d8-dbc1c7bf6875-certificate.pdf)|
 |@abinash134 | Abinash Pradhan| |
 | @yashgangwar7558 | Yash Gangwar | |
+| @nonSerp | Fred Farwenel | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/79208a6d-5e44-490c-b924-5f3e94927678-fred-farwenel-a773e1fd-ad15-4b01-8910-9edd331abb47-certificate.pdf) |
+| @krol3 | Carol Valencia | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a7b9d011-8606-5417-82ad-2809fe8b4a0d-carolina-valencia-491609d1-ff2e-4b69-9d79-50bd4e9736ca-certificate.pdf) |
