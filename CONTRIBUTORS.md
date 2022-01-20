@@ -67,7 +67,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Anshuman Sathua](https://github.com/anshu-21) | IST  | UTC +5:30 | Career Guidance, Opensource Contribution, Kubernetes |
 | [Diksha Rai](https://github.com/diksharai9) | IST | UTC +5:30 | Devops, GitOps |
 | [Abigail Gbadago](https://github.com/AfiMaameDufie) | GMT | UTC +0 | Java, React, Devops |
-| [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | GitOps, KCNA, GoLang |
+| [Kingsathurthi](https://github.com/kingsathurthi) | IST | UTC +5:30 | GitOps, KCNA, GoLang, Helm, Kustomize |
 | [Mayank Mudgal](https://github.com/Mayank1728) | IST | UTC +5:30 | GitOps, GoLang
 | [Mohammed Salik Mulla](https://github.com/Salik47) | IST | UTC +5:30 | GoLang, GitOps |
 | [Hardik Patel](https://github.com/HARDIK-TSH1392) | IST  | UTC +5:30 | Golang, GitOps, DevOps, Kubernetes, Artificial Intelligence , Machine Learning, Cloud computing (AWS,GCP), Networking fundamentals|
