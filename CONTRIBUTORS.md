@@ -9,7 +9,7 @@ These are the wonderful people who have donated their time and effort to help ma
 
 ### Approvers:
 * Kunal Verma [verma-kunal](https://github.com/verma-kunal)
-* Vrukshali Torawane [verma-kunal](https://github.com/Vrukshali-26)
+* Vrukshali Torawane [Vrukshali-26](https://github.com/Vrukshali-26)
 
 ### Contributors:
 
