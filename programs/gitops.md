@@ -39,3 +39,4 @@ This milesone is for learning Hashicorp Vault which is commonly used in producti
 |@abinash134 | Abinash Pradhan| |
 | @yashgangwar7558 | Yash Gangwar | |
 | @nonSerp | Fred Farwenel | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/79208a6d-5e44-490c-b924-5f3e94927678-fred-farwenel-a773e1fd-ad15-4b01-8910-9edd331abb47-certificate.pdf) |
+| @Atharva-Shinde | Atharva Shinde | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/90297c08-4b73-4d98-82e4-ce40629ba05e-atharva-dnyandeo-shinde-75a387eb-7d32-4c95-9344-1c2b2f8d4c8a-certificate.pdf) |
