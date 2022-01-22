@@ -15,6 +15,15 @@ Links to the official documentation:
 ## Mentors
 - [Brad McCoy](https://github.com/bradmccoydev)
 
+## Sandbox
+If you want dev environment to use you can use https://vault.bradmccoy.io
+
+to authenticate with the vault cli you can run the following command:
+
+```bash
+export VAULT_TOKEN="bradmccoy" && export VAULT_ADDR='https://vault.bradmccoy.io'
+```
+
 ---
 ## Mentoring Sessions
 | Week | Date | Topic |
