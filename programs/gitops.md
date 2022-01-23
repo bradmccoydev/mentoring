@@ -38,8 +38,9 @@ This milesone is for learning Hashicorp Vault which is commonly used in producti
 | @gowlar | Stefan Gowlar | |
 |@espirado | Espira andrew | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2bc65558-4438-466a-8c59-c44ea209431e-andrew-espira-5d5ef0c3-9d1f-497d-b8d8-dbc1c7bf6875-certificate.pdf)|
 |@abinash134 | Abinash Pradhan| |
-| @yashgangwar7558 | Yash Gangwar | |
+| @yashgangwar7558 | Yash Gangwar | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/528a3902-6b9b-441d-a704-67d57eea54c2-yash-gangwar-051a664e-33aa-4418-baac-7133c0986e78-certificate.pdf)
 | @nonSerp | Fred Farwenel | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/79208a6d-5e44-490c-b924-5f3e94927678-fred-farwenel-a773e1fd-ad15-4b01-8910-9edd331abb47-certificate.pdf) |
+| @Atharva-Shinde | Atharva Shinde | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/90297c08-4b73-4d98-82e4-ce40629ba05e-atharva-dnyandeo-shinde-75a387eb-7d32-4c95-9344-1c2b2f8d4c8a-certificate.pdf) |
 | @krol3 | Carol Valencia | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a7b9d011-8606-5417-82ad-2809fe8b4a0d-carolina-valencia-491609d1-ff2e-4b69-9d79-50bd4e9736ca-certificate.pdf) |
 | @AATHITH | AATHITH RAJENDRAN | Intro to GitOps | [Certificate](https://github.com/AATHITH/devops_guy/blob/master/DevOps/aathith-rajendran-gitops-intro-certificate.pdf) |
 | @Ciggzy1312 | Deepayan Mukherjee | Intro to GitOps | [Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/34ec0222-aaa4-496f-8aeb-d4ab19e277d0-deepayan-mukherjee-8fc02f11-4d3d-4b7e-89cf-a72913cb05ad-certificate.pdf) |

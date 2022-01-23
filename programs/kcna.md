@@ -15,6 +15,8 @@ Links to the documentation:
 ## Mentors
 - [Brad McCoy](https://github.com/bradmccoydev)
 - [Walid Shaari](https://github.com/walidshaari)
+- [Mohamed Abukar](https://github.com/moabukar)
+- [Sergio Méndez](https://github.com/unknown)
 - [Ben Poh](https://github.com/benhpoh)
 
 ---
