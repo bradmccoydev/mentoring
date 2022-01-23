@@ -143,6 +143,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Èric Monné](https://github.com/xemyst/) | CET | UTC +01:00 | Cibersecurity, Cloud Computing, DevSecOps, Networking|
 | [Vaishnavi Joshi](https://github.com/vj-codes) | IST | UTC +5:30 | Devops, Docker, GitOps, Cloud, Web Dev, Cloud Native Tools, GoLang|
 | [Anuja Kumari](https://github.com/Anujakumari) | IST | UTC +5:30 | KCNA, Kubernetes, GitOps, Cloud Native Tools, Open Source|
+| [Ashish Kumar](https://github.com/ashishkumar671/) | IST | UTC +5:30 | Kubernetes, Terraform|
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
