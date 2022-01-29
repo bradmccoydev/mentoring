@@ -145,6 +145,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Anuja Kumari](https://github.com/Anujakumari) | IST | UTC +5:30 | KCNA, Kubernetes, GitOps, Cloud Native Tools, Open Source|
 | [Ashish Kumar](https://github.com/ashishkumar671/) | IST | UTC +5:30 | Kubernetes, Terraform|
 | [Anurag Kumar](https://github.com/kranurag7) | IST | UTC +5:30 | Devops, Cloudnative tools, Open Source|
+| [Srushti Sapkale](https://github.com/SrushtiSapkale) | IST | UTC +5:30 | Devops, CNCF Projects contribution, Open Source|
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
