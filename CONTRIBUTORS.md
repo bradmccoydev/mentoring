@@ -148,6 +148,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Srushti Sapkale](https://github.com/SrushtiSapkale) | IST | UTC +5:30 | Devops, CNCF Projects contribution, Open Source|
 | [Mahesh Regmi](https://github.com/regmicmahesh) | NTZ | UTC +5:45 | Golang, Docker, Kubernetes, Infrastructure as a Code, Cloud Native, Cloud, Distributed Systems |
 | [Ashbin Wosti](https://github.com/washbin) | NTZ | UTC +5:45 | Career Advice, GitOps, GoLang, Terraform |
+| [V Sreenivas](https://github.com/cnu1812)| IST|UTC +5:30|KCNA, CKS, GoLang|
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
