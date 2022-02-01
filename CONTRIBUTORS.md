@@ -146,6 +146,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Ashish Kumar](https://github.com/ashishkumar671/) | IST | UTC +5:30 | Kubernetes, Terraform|
 | [Anurag Kumar](https://github.com/kranurag7) | IST | UTC +5:30 | Devops, Cloudnative tools, Open Source|
 | [Srushti Sapkale](https://github.com/SrushtiSapkale) | IST | UTC +5:30 | Devops, CNCF Projects contribution, Open Source|
+| [Mahesh Regmi](https://github.com/regmicmahesh) | NTZ | UTC +5:45 | Golang, Docker, Kubernetes, Infrastructure as a Code, Cloud Native, Cloud, Distributed Systems |
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
