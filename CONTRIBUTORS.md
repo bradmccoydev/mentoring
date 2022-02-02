@@ -150,6 +150,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Ashbin Wosti](https://github.com/washbin) | NTZ | UTC +5:45 | Career Advice, GitOps, GoLang, Terraform |
 | [V Sreenivas](https://github.com/cnu1812)| IST|UTC +5:30|KCNA, CKS, GoLang|
 | [Ritik Chauhan](https://github.com/ritik-chauhan)| IST | UTC +5:30 | C++, Docker, Kubernetes, GitOps, Cloud Native, Golang |
+| [Anwesh Budhathoki](https://github.com/anwesh-b)| NPT | UTC +5:45 | Golang, Docker, Kubernetes, Career Advice, Cloud Native, Distributed System |
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
