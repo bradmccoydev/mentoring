@@ -153,7 +153,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Anwesh Budhathoki](https://github.com/anwesh-b)| NPT | UTC +5:45 | Golang, Docker, Kubernetes, Career Advice, Cloud Native, Distributed System |
 | [Arsheel Sheikh](https://github.com/arsheelsheikh)| IST | UTC +5:30 | OpenSource, Kubernetes, Devops, Career Advice, GoLang, Cloud Native |
 | [Hitesh Kowdiki](https://github.com/kkhitesh)| IST | UTC+5:30 | Career Advice, GitOps, GoLang, DevOps |
-
+| [Somdatta](https://github.com/somdatta8172)| IST | UTC+5:30 | KCNA, Helm, Kustomize, GitOps, GoLang, Terraform, Vault, DevRel, Career Advice |
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
