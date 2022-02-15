@@ -28,16 +28,16 @@ Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github h
 
 | Things to be mentored on | 
 | --- |
-| Career Advice |
-| KCNA Exam |
-| Helm |
-| Kustomize |
-| Git |
-| GitOps |
-| GoLang |
-| Terraform |
-| Vault |
-| DevRel |
+| [Career Advice](https://github.com/bradmccoydev/mentoring/blob/main/programs/career-advice.md) |
+| [KCNA Exam](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) |
+| [Helm](https://helm.sh/) |
+| [Kustomize](https://kustomize.io/) |
+| [Git](https://kustomize.io/) |
+| [GitOps](https://www.weave.works/technologies/gitops/) |
+| [GoLang](https://go.dev/) |
+| [Terraform](https://www.terraform.io/) |
+| [Vault](https://www.vaultproject.io/) |
+| [DevRel](https://www.youtube.com/watch?v=_SSCZkSitlc) |
 
 **add your line to the bottom of the page** 
 
