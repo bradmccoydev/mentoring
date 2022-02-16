@@ -32,7 +32,7 @@ Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github h
 | [KCNA Exam](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) |
 | [Helm](https://helm.sh/) |
 | [Kustomize](https://kustomize.io/) |
-| [Git](https://kustomize.io/) |
+| [Git](https://git-scm.com/) |
 | [GitOps](https://www.weave.works/technologies/gitops/) |
 | [GoLang](https://go.dev/) |
 | [Terraform](https://www.terraform.io/) |
