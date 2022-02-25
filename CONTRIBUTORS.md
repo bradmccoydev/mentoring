@@ -156,7 +156,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Somdatta](https://github.com/somdatta8172)| IST | UTC+5:30 | KCNA, Helm, Kustomize, GitOps, GoLang, Terraform, Vault, DevRel, Career Advice |
 | [Pavan Gudiwada](https://github.com/pavangudiwada) | IST | UTC +5:30 | Terraform, GitOps, Helm, Kubernetes, DevOps, Career Advice |
 | [Abhinav Kumar](https://github.com/abhinav2712) | IST | UTC +5:30 | Docker, Kubernetes, DevOps, Career Advice,Terraform,AWS services,Open Source, GoLang, |
-
+| [Sanjeet Kumar](https://github.com/Kumarsanjeet1) | IST | UTC +5:30 |  GoLang, (GCP/Azure/AWS), Docker, Kubernetes,  IAC, chaos Engg., Service mesh, Ansible & more things related to DevOps, Career Advice |
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
