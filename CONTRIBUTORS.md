@@ -162,7 +162,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Sushrut](https://github.com/sushruthajirnis)| PST | UTC -8:00 | DevOps, Kubernetes|
 | [Mayank](https://github.com/mayankkuamr001) | IST | UTC +5:30 | DevOps, Kubernetes |
 | [Subham Ghosh](https://github.com/subhamgcon) | IST | UTC +5:30 | DevOps, Kubernetes, GoLang, Documentation, Docker |
-
+| [Atharv Karajgi](https://github.com/atharvkarajgi) | IST | UTC +5:30 | DevOps, Kubernetes, GitOps, GoLang, Helm, KCNA | 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
