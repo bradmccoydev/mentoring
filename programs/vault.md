@@ -39,7 +39,7 @@ export VAULT_TOKEN="bradmccoy" && export VAULT_ADDR='https://vault.bradmccoy.io'
 | 9 | 11-Jun-2022 | [Explain Vault architecture](#Session-9)|
 | 10 | 18-Jun-2022 | [Explain encryption as a service](#Session-9)|
 
-You should try to read the [documentation](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification) on the topic prior to each session.
+You should try to read the [documentation](https://learn.hashicorp.com/tutorials/vault/associate-study) on the topic prior to each session.
 
 ---
 ### Session 1
