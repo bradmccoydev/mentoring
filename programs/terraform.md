@@ -47,6 +47,8 @@ Understand Terraform's purpose (vs other IaC) - 22nd Jan 2022
 - Prerequisite tutorials: 
     - https://www.terraform.io/intro/use-cases#multi-cloud-deployment
     - https://www.terraform.io/language/state/purpose
+- Online event recording:
+    - https://www.youtube.com/watch?v=7b1g7nvWdlg
 
 ### Week 3
 Understand Terraform basics - 29th Jan 2022
@@ -55,6 +57,8 @@ Understand Terraform basics - 29th Jan 2022
 - Prerequisite tutorials: 
     - https://learn.hashicorp.com/tutorials/terraform/install-cli
     - https://learn.hashicorp.com/tutorials/terraform/provider-versioning
+- Online event recording:
+    - https://www.youtube.com/watch?v=ltav5x-jNU8
 
 ### Week 4
 Use the Terraform CLI (outside of core workflow) - 5th Feb 2022
@@ -65,6 +69,8 @@ Use the Terraform CLI (outside of core workflow) - 5th Feb 2022
     - https://www.terraform.io/cli/commands/init
     - https://www.terraform.io/cli/commands/plan
     - https://www.terraform.io/cli/commands/apply
+- Online event recording:
+    - https://www.youtube.com/watch?v=YAoM2LN6f3M
 
 ### Week 5
 Interact with Terraform modules - 12th Feb 2022
@@ -74,6 +80,8 @@ Interact with Terraform modules - 12th Feb 2022
     - https://learn.hashicorp.com/tutorials/terraform/module
 - Additional resources:
     - [Difference between Resource & Module](https://www.youtube.com/watch?v=fx7ESTJfV3o&t=1581s)
+- Online event recording:
+    - https://www.youtube.com/watch?v=dpjBuZb56Lc
 
 ### Week 6
 Navigate Terraform workflow - 19th Feb 2022
@@ -81,6 +89,8 @@ Navigate Terraform workflow - 19th Feb 2022
     - https://www.meetup.com/sydney-hashicorp-user-group/events/283190374/
 - Prerequisite tutorials: 
     - https://www.terraform.io/intro/core-workflow
+- Online event recording:
+    - https://www.youtube.com/watch?v=kFLhMdftMUg
 
 ### Week 7
 Implement and maintain state - 26th Feb 2022
@@ -89,11 +99,13 @@ Implement and maintain state - 26th Feb 2022
 - Prerequisite tutorials: 
     - https://www.terraform.io/language/settings/backends
     - https://learn.hashicorp.com/tutorials/terraform/aws-remote
+- Online event recording:
+    - https://www.youtube.com/watch?v=QiVup3qs3RA
 
 ### Week 8
 Read, generate, and modify configuration - 5th Mar 2022
 - Meetup signup page: 
-    - https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190518/
+    - ~~https://www.meetup.com/en-AU/sydney-hashicorp-user-group/events/283190518/~~
 - Prerequisite tutorials: 
     - https://www.terraform.io/language/values/variables
     - https://learn.hashicorp.com/tutorials/terraform/variables
@@ -107,6 +119,8 @@ Understand Terraform Cloud and Enterprise capabilities - 12th Mar 2022
     - https://www.meetup.com/sydney-hashicorp-user-group/events/283190561/
 - Prerequisite tutorials: 
     - https://www.terraform.io/cloud-docs
+- Online event recording:
+    - https://www.youtube.com/watch?v=8JSTKHxkLTM
 
 ### Week 10
 Booking the exam - 19th Mar 2022
