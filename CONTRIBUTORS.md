@@ -165,6 +165,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Atharv Karajgi](https://github.com/atharvkarajgi) | IST | UTC +5:30 | DevOps, Kubernetes, GitOps, GoLang, Helm, KCNA | 
 | [Srinivas Karnati](https://github.com/karnatisrinivas) | IST | UTC +5:30 | DevOps, Kubernetes, Terraform, GitOps, Career Advice| 
 | [Jimoh Rildwan Adekunle](https://github.com/neymarjimoh) | GMT | UTC +0:00  | GoLang, DevOps, GitOps, Career Advice |
+| [Vishnu S](https://github.com/vishnus17) | IST | UTC +5:30 | DevOps, Kubernetes, Terraform, CI/CD, Docker, Cloud Engineer, Career Advice|
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
