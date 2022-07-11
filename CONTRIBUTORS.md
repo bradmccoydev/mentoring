@@ -169,6 +169,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Vishnu S](https://github.com/vishnus17) | IST | UTC +5:30 | DevOps, Kubernetes, Terraform, CI/CD, Docker, Cloud Engineer, Career Advice|
 | [Kafui Alordo](https://github.com/kafui4k)| (GMT) | UTC +0 | JAVA, Cloud Engineering, DevOps |
 | [Arnab Maity](https://github.com/itisaby) | IST | UTC +5:30 | Docker, Kubernetes, GitOps, CI/CD, GoLang, Terraform, Vault, DevRel |
+| [Geek Lady](https://github.com/bipubipu) | AEST | UTC +10 | Docker, Kubernetes, GoLang, Terraform |
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
