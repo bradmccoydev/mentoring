@@ -28,16 +28,17 @@ export VAULT_TOKEN="bradmccoy" && export VAULT_ADDR='https://vault.bradmccoy.io'
 ## Mentoring Sessions
 | Week | Date | Topic |
 | --- | --- | --- |
-| 1 | 16-Apr-2022 | [Compare authentication methods](https://www.meetup.com/sydney-hashicorp-user-group/events/285096107)|
-| 2 | 23-Apr-2022 | [Create Vault policies](#Session-2)|
-| 3 | 30-Apr-2022 | [Assess Vault tokens](#Session-3)|
-| 4 | 7-May-2022 | [Manage Vault leases](#Session-4)|
-| 5 | 14-May-2022 | [Compare and configure Vault secrets engines](#Session-5)|
-| 6 | 21-May-2022 | [Utilize Vault CLI](#Session-6)|
-| 7 | 28-May-2022 | [Utilize Vault UI](#Session-7)|
-| 8 | 4-Jun-2022 | [Be aware of the Vault API](#Session-8)|
-| 9 | 11-Jun-2022 | [Explain Vault architecture](#Session-9)|
-| 10 | 18-Jun-2022 | [Explain encryption as a service](#Session-9)|
+| 1 | 10-Aug-2022 | [Introduction To Vault](https://events.hashicorp.com/hashitalksanz#rsvp)|
+| 2 | 17-Aug-2022 | [Compare authentication methods](https://www.meetup.com/sydney-hashicorp-user-group/events/285096107)|
+| 3 | 24-Aug-2022 | [Create Vault policies](#Session-2)|
+| 4 | 31-Aug-2022 | [Assess Vault tokens](#Session-3)|
+| 5 | 7-Sep-2022 | [Manage Vault leases](#Session-4)|
+| 6 | 14-Sep-2022 | [Compare and configure Vault secrets engines](#Session-5)|
+| 7 | 21-Sep-2022 | [Utilize Vault CLI](#Session-6)|
+| 8 | 28-Sep-2022 | [Utilize Vault UI](#Session-7)|
+| 9 | 5-Oct-2022 | [Be aware of the Vault API](#Session-8)|
+| 10 | 12-Oct-2022 | [Explain Vault architecture](#Session-9)|
+| 11 | 19-Oct-2022 | [Explain encryption as a service](#Session-9)|
 
 You should try to read the [documentation](https://learn.hashicorp.com/tutorials/vault/associate-study) on the topic prior to each session.
 
