@@ -27,11 +27,7 @@ git checkout -b add-direktiv-to-contributors
 Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) with your name, github handle, timezone and areas of interest that you would like to learn.  This list will grow over time.
 
 
-**add your line to the bottom of the page** 
-
-```
-| [Brad McCoy](https://github.com/direktiv) | AEST | UTC +10 | GitOps, GoLang |
-```
+**add your user to the bottom of the page** 
 
 ### Commiting code ###
 
