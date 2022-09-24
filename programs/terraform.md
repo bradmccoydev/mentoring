@@ -133,3 +133,4 @@ Booking the exam - 19th Mar 2022
 | --- | --- | --- |
 | @bradmccoydev | Brad McCoy | [Cert](https://www.credly.com/badges/dd4f02af-2272-4a92-b10c-2c56079dc99d) |
 | @benhpoh | Ben Poh | [Cert](https://www.credly.com/badges/5f6b3c10-681c-4d83-95e3-8b13fb724bc6) |
+| @Vrukshali-26 | Vrukshali Torawane | [Cert](https://www.credly.com/badges/248af738-5b9c-42b2-84a7-ec1464541231/public_url)
