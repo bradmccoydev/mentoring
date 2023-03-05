@@ -173,6 +173,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Siva Naik Kethavath](https://github.com/sivanaikk) | IST | UTC +5:30 | Opensource, DevRel, DevOps, GitOps, GoLang, Kubernetes |
 | [Cortney Nickerson](https://github.com/CortNick) | CST | UTC +1 | Opensource, DevRel, Kubernetes, Career Advice |
 | [Harshita Sao](https://github.com/harshitasao) | IST | UTC +5:30 | DevRel, Kubernetes, Career Advice, Golang, GitOps, DevOps, Terraform, KCNA |
+| [Masroor Hussain Shah](https://github.com/masroor07) | IST | UTC +5:30 | Terraform, AWS, Devops, Ansible |
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
