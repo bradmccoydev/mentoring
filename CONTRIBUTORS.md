@@ -176,6 +176,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Masroor Hussain Shah](https://github.com/masroor07) | IST | UTC +5:30 | Terraform, AWS, Devops, Ansible |
 | [Mritunjay Srivastava](https://github.com/mritunjaysri28) | IST | UTC +5:30 | Career Advice, GitOps, OpenSource Contribution, Machine Learning, Artificial Intelligence |
 | [Riya Bisht](https://github.com/chococandy63) | IST | UTC +5:30 | DevOps, Kubernetes, OpenSource Contribution, AWS, Golang, Cloud Engineer, Cloud Native, Terraform |
+| [Chinmay Manas](https://github.com/pnchinmay) | IST | UTC +5:30 | Golang, Docker, Kubernetes, AWS, Distributed Systems, Cloud Native, OpenSource Contribution |
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
