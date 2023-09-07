@@ -178,6 +178,7 @@ These are the wonderful people who have donated their time and effort to help ma
 | [Riya Bisht](https://github.com/chococandy63) | IST | UTC +5:30 | DevOps, Kubernetes, OpenSource Contribution, AWS, Golang, Cloud Engineer, Cloud Native, Terraform |
 | [Chinmay Manas](https://github.com/pnchinmay) | IST | UTC +5:30 | Golang, Docker, Kubernetes, AWS, Distributed Systems, Cloud Native, OpenSource Contribution |
 | [Priyanshu Pannu](https://github.com/PriyanshuPannu) | IST | UTC +5:30 | Devops, Career Advice, Golang, Docker, Kubernetes, AWS, Distributed Systems, Cloud Native, OpenSource Contribution |
+| [Sahil Chopra](https://github.com/Devsahil27) | IST | UTC +5:30 | GitOps, GoLang , Career Advice, helm,Git,Terrafrom,Docker,Devrel,OpenSource Contribution |
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/bradmccoydev/mentoring/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=bradmccoydev/mentoring"/>
